@@ -152,10 +152,17 @@ a, a:hover{
 	text-transform: uppercase;
     letter-spacing: 2px;
     color: #fff;
+    padding: 0px 30px
 }
-.slider .carousel-caption3 .bg{
-	background: #506a85 !important;
+.slider .carousel-caption3 h3{
+	font-size: 64px;
+    font-weight: 700;
+	text-transform: uppercase;
+    letter-spacing: 2px;
+    color: #fff;
+
 }
+
 .slider .carousel-caption3 .background{
 	background: #506a85;
 	font-size: 64px;
@@ -206,7 +213,7 @@ a, a:hover{
 	border: 1px solid #00bc9c;
 	border-radius: 2px
 }
-.slider .d-none .btn-info:focus, .slider .carousel-caption .btn-info:hover{
+.slider .d-none .btn-info:focus, .slider .d-none .btn-info:hover{
 	color: #00bc9c;
 	background:transparent;
 	border: 1px solid #00bc9c;
